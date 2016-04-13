@@ -1,2 +1,2 @@
 # myInputValidator
-Validator for one field
+Validator for form
